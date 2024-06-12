@@ -7298,7 +7298,7 @@ body {
       -o-transform: translateX(0);
       transform: translateX(0);
       width: 270px;
-      background: #fff;
+      background: #000000;
       z-index: 999;
       position: fixed; }
     body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
@@ -7442,7 +7442,7 @@ h1, h2, h3, h4, h5,
     #colorlib-aside #colorlib-main-menu p.social span {
       display: block; }
       #colorlib-aside #colorlib-main-menu p.social span a {
-        color: #000000; }
+        color: #fff; }
   #colorlib-aside .colorlib-footer {
     position: absolute;
     bottom: 40px;
@@ -7554,7 +7554,7 @@ h1, h2, h3, h4, h5,
     font: bold 14px/.4 Helvetica;
     text-transform: uppercase;
     text-indent: -55px;
-    background: #000000;
+    background: #fff;
     -webkit-transition: all .2s ease-out;
     -o-transition: all .2s ease-out;
     transition: all .2s ease-out; }
@@ -7562,7 +7562,7 @@ h1, h2, h3, h4, h5,
       content: '';
       width: 30px;
       height: 2px;
-      background: #000000;
+      background: #fff;
       position: absolute;
       left: 0;
       -moz-transition: all 0.2s ease;
@@ -7938,7 +7938,7 @@ h1, h2, h3, h4, h5,
 .btn-custom-2 {
   font-size: 7vw;
   font-weight: 600;
-  color: #000000;
+  color: #fff;
   text-transform: uppercase; }
 
 .blog-entry {
